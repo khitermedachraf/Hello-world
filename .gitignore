@@ -11,4 +11,4 @@ node_modules
 .sass-cache
 
 # Ignore test.md file
- test.md
+test.md
