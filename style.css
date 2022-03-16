@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header-styles {
+    text-align: center;
+    text-decoration: underline;
+    color: teal;
+}
