@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* add style to the h1 tag */
+.header-styles {
+  text-align: center;
+  text-decoration: underline;
+  color: teal;
+}
